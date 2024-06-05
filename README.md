@@ -1,47 +1,40 @@
-## Hello! 👋
+## Welcome to my GitHub! 👋
 
+<!-- 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+-->
 
-## About me
+### About me
 
 <!-- to do : add more details about me later-->
 
-Hello, this is Yuna! 
+Hello, this is Yuna! I am originally from Seoul, South Korea, and am currently a Data Science master's student in London. With a Bachelor's degree in Statistics and a strong mathematical backround, combined with my creativity and coding skills, I aspire to become a leading Data Scientist. 
 
-<details open> 
-  
-<summary>My top THINGS-TO-RANK</summary>
+### Repositories
+My most relevant repositories are pinned at the top of my GitHub, which includes data science, machine learning and neural network projects. It includes descriptions of my projects in detail, the key features and technologies used, with some interesting insights and results. 
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2|  R        |
-|     3|   SQL     |
+### My skills
+Programming languages and tools: Python, R, SQL, MATLAB, Tableau. 
 
+### My Contribution
 
-</details>
+### My Portfolio
+Below is the link to my data science porfolio which showcases my work more visually!
 
----
-> QUOTE
+#### Contact me 
 
-— Mona the Octocat
+Feel free to contact me through my socials below!
+
+✉️ yunalee0305@gmail.com
+
+Linkedin:
 
 
 <!--
 **lyna0305/lyna0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
