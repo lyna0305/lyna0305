@@ -12,7 +12,7 @@
 
 <!-- to do : add more details about me later-->
 
-Hello, this is Yuna! I am originally from Seoul, South Korea, and am currently a Data Science master's student in London. With a Bachelor's degree in Statistics and a strong mathematical backround, combined with my creativity and coding skills, I aspire to become a leading Data Scientist. 
+Hello, this is Yuna! I am originally from Seoul, South Korea, and am currently a Data Science master's student in London. With a Bachelor's degree in Statistics and a strong mathematical background, combined with my creativity and coding skills, I aspire to become a leading Data Scientist. 
 
 ### Repositories
 My most relevant repositories are pinned at the top of my GitHub, which includes data science, machine learning and neural network projects. It includes descriptions of my projects in detail, the key features and technologies used, with some interesting insights and results. 
