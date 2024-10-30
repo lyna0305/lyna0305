@@ -20,19 +20,11 @@ My most relevant repositories are pinned at the top of my GitHub, which includes
 ### My skills
 Programming languages and tools: Python, R, SQL, MATLAB, Tableau. 
 
-### My Contribution
-
-### My Portfolio
-Below is the link to my data science porfolio which showcases my work more visually!
-
 #### Contact me 
 
 Feel free to contact me through my socials below!
 
 ✉️ yunalee0305@gmail.com
-
-Linkedin:
-
 
 <!--
 **lyna0305/lyna0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
