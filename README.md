@@ -21,8 +21,8 @@ With a touch of data analysis and a lot of perseverance, I believe that any prob
 
 #### Let's Connect!
 
-📧 Email: yunalee0305@gmail.com
-🌐 Portfolio[https://lyna0305.github.io/]
+📧 Email: yunalee0305@gmail.com <br>
+🌐 [Portfolio](https://lyna0305.github.io/) <br>
 💼 LinkedIn
 
 <!--
