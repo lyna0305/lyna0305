@@ -2,7 +2,7 @@
 
 ### About me
 
-Hello, I'm Yuna! I'm an aspiring Data Scientist based in London, passionate about solving real-world challenges through data-driven insights. I enjoy combining curiosity and creativity to uncover hidden patterns and transform them into actionable ideas!💡
+Hello, I'm Yuna! I'm an aspiring Data Scientist passionate about solving real-world challenges through data-driven insights. I enjoy combining curiosity and creativity to uncover hidden patterns and transform them into actionable ideas!💡
 
 With a touch of data analysis and a lot of perseverance, I believe that any problem can be solved. Through my projects, I explore meaningful challenges, uncover trends, and deliver insights that inspire change and make a positive impact on the world around us. 
 
